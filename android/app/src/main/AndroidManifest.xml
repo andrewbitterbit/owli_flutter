@@ -12,9 +12,9 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <application
         android:requestLegacyExternalStorage="true"
-        android:label="ThingsBoard App"
+        android:label="Owli"
         android:networkSecurityConfig="@xml/network_security_config"
-        android:icon="@mipmap/launcher_icon">
+        android:icon="@mipmap/owli">
         <activity
             android:name=".MainActivity"
             android:exported="true"
